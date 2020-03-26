@@ -1,5 +1,7 @@
 # Nodejs JavaScript Application
+
 Test 23456 Test test test
+
 ## Description
 
 This app is intended for use with the Sparta Global Devops Stream as a sample application
@@ -56,6 +58,6 @@ The test for posts will fail ( as expected ) if the database has not been correc
 
 ## Jenkins builds
 
-Any changes to the application on a development branch will trigger a webhook to test and merge this 
+Any changes to the application on a development branch will trigger a webhook to test and merge this
 to a master if tests are successful. This will trigger a packer build of the application and generate
 a new AMI image on AWS.
