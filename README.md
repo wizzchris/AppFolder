@@ -1,5 +1,4 @@
 # Nodejs JavaScript Application
-Thisisatest
 
 ## Description
 
