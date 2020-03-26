@@ -1,6 +1,5 @@
 # Nodejs JavaScript Application
 
-Test 23456 Test test test
 
 ## Description
 
