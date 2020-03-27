@@ -1,5 +1,5 @@
 # Nodejs JavaScript Application
-Test Screen Recording Test
+
 ## Description
 
 This app is intended for use with the Sparta Global Devops Stream as a sample application
