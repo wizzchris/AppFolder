@@ -16,7 +16,7 @@ app.get('/' , function(req , res){
 
 // connect to database
 if(process.env.DB_HOST) {
-  mongoose.connect(process.env.DB_HOST);
+  mongoose.connect(process.env.DB_HOST, {useNewUrlParser: true});
 
   app.get("/posts" , function(req,res){
       Post.find({} , function(err, posts){
